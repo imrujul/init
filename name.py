@@ -10,7 +10,7 @@ alice = alice.upper()
 alice = alice.lower()
 
 print(alice)
-# sentences = alice.split('.')
+sentences = alice.split('.')
 
-# for sentence in sentences:
-#     print(sentence)
+for sentence in sentences:
+    print(sentence)
